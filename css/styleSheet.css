@@ -1,0 +1,43 @@
+#inputSection {
+    margin-top: 5em;
+}
+
+#headerSection {
+    background: linear-gradient(45deg, #4cd964 0%, #5ac8fa 100%);
+    padding: 2em 0em 4em 0em;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: #F3FFBD;
+    font: 95px/1 "Impact";
+    text-transform: uppercase;
+    display: block;
+    text-shadow: #253e45 -1px 1px 0, #253e45 -2px 2px 0, #FF1654 -3px 3px 0, #FF1654 -4px 4px 0;
+    /*margin: 5% auto 5%;*/
+}
+
+html, body {
+
+    height: 100%;
+}
+.blueTxt {
+    color: #0275d8;
+    padding-right: 0px;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+#result {
+    text-align: center;
+    color: #FF1654;
+    font: 70px/1 "Impact";
+    text-transform: uppercase;
+    display: block;
+    /*text-shadow: #253e45 -1px 1px 0, #253e45 -2px 2px 0, #FF1654 -3px 3px 0, #FF1654 -4px 4px 0;*/
+    margin: 5% auto 5%;
+}
